@@ -1,6 +1,6 @@
 import re
 
-with open('data/20200527152905.861802.ig.tum', 'r') as fic:
+with open('20200527152905.861802.ig.tum', 'r') as fic:
     txt = fic.read()
 
 suv = re.findall(r'(M.+)(?<!RC)SUVValue = (\d+\.\d+)', txt)
