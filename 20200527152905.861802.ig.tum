@@ -1,0 +1,137 @@
+#
+#Isogray file
+#
+
+#------ Incremental File Format
+#FileFormatVersion
+FileFormatVersion = "0.0.1"
+
+#Last Save Date
+FileLastSaveDate = 2021-02-12T09:14:45
+
+#------ General Component Information
+#Object User Name
+ObjectName = "Tumor"
+
+#Object Unique Identifier
+ObjectUID = "20200527152905.861802"
+
+#Object Protocol Identifier
+ObjectProtocolUID = ""
+
+#Object Protocol Configuration Identifier
+ObjectProtocolConfigurationUID = ""
+
+#Object Internal Name
+ObjectInternalName = "Tumor Data"
+
+#Object Class Name
+ObjectClassName = "IdaTumorData"
+
+#Object Icon Name
+ObjectIconName = "default.png"
+
+#Object Number
+ObjectNumber = "2"
+
+#Object Version
+ObjectVersion = "1"
+
+#Object Comment
+ObjectComment = ""
+
+#Object Used Coordinate System Identification
+ObjectUsedCoordSystID = ""
+
+#Object Time Link UID
+ObjectTimeLinkUID = ""
+
+#Is this container dynamic?
+DynamicContainer = false
+
+#Validation flag
+Validated = 0
+
+#Validation user
+ValidationUser = ""
+
+#Validation Date Time
+ValidationDateTime = ""
+
+#------ Tumor Information
+#Min SUV Value
+MinSUVValue = 2.29212
+#Mean SUV Value
+MeanSUVValue = 3.3783
+#Mean RC SUV Value
+MeanRCSUVValue = 3.71512
+#Standard Deviation SUV Value
+StandardDeviationSUVValue = 0.786985
+#Max SUV Value
+MaxSUVValue = 5.0055
+#Sum SUV Value
+SumSUVValue = 43.9161
+#TLG Value
+TLGValue = 1.47669
+#RC TLG Value
+RCTLGValue = 1.62391
+#Min SUV BSA Value
+MinSUVBSAValue = 0.602975
+#Mean SUV BSA Value
+MeanSUVBSAValue = 0.888709
+#Mean RC SUV BSA Value
+MeanRCSUVBSAValue = 0.977314
+#Standard Deviation SUV BSA Value
+StandardDeviationSUVBSAValue = 0.207027
+#Max SUV BSA Value
+MaxSUVBSAValue = 1.31677
+#Sum SUV BSA Value
+SumSUVBSAValue = 11.5527
+#TLG BSA Value
+TLGBSAValue = 0.388463
+#RC TLG BSA Value
+RCTLGBSAValue = 0.427193
+#Min SUV LBM Value
+MinSUVLBMValue = 1.5781
+#Mean SUV LBM Value
+MeanSUVLBMValue = 2.32592
+#Mean RC SUV LBM Value
+MeanRCSUVLBMValue = 2.55782
+#Standard Deviation SUV LBM Value
+StandardDeviationSUVLBMValue = 0.541831
+#Max SUV LBM Value
+MaxSUVLBMValue = 3.44623
+#Sum SUV LBM Value
+SumSUVLBMValue = 30.2357
+#TLG LBM Value
+TLGLBMValue = 1.01668
+#RC TLG LBM Value
+RCTLGLBMValue = 1.11805
+#Min Activity Concentration Value
+MinActivityConcentrationValue = 4995
+#Mean Activity Concentration Value
+MeanActivityConcentrationValue = 7361.69
+#Mean RC Activity Concentration Value
+MeanRCActivityConcentrationValue = 8096.03
+#Standard Deviation Activity Concentration Value
+StandardDeviationActivityConcentrationValue = 1715
+#Max Activity Concentration Value
+MaxActivityConcentrationValue = 10908
+#Sum Activity Concentration Value
+SumActivityConcentrationValue = 95702
+#Functional Volume Minimum Voxel Position
+FunctionalVolumeMinimumVoxelPosition = -5.891 -581.013 135.961
+#Min HU Value
+MinHUValue = 5
+#Mean HU Value
+MeanHUValue = 257.907
+#Standard Deviation HU Value
+StandardDeviationHUValue = 107
+#Max HU Value
+MaxHUValue = 533
+#Sum HU Value
+SumHUValue = 83046
+#Number Of Voxels Value
+NumberOfVoxelsValue = 13
+#Volume Value
+VolumeValue = 0.437109
